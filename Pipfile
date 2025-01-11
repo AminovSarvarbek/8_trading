@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiogram = "*"
+pandas = "*"
+pyarrow = "*"
+environs = "*"
+requests = "*"
+mplfinance = "*"
+python-binance = "*"
+tradingview-ta = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"

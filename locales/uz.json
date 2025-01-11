@@ -1,0 +1,16 @@
+{
+    "start_message":"Salom dasturimizga xush kelibsiz",
+    "bot_restart":"Bot qayta ishga tushirildi...",
+    "user_name_updated_message":"Bot qayta ishga tushirildi...\nFoydalanuvchi ismi yangilandi",
+    "info_change_lang":"Til muvafaqiyatli sozlandi",
+
+    "prognoz":"Prognoz qilish kerak bo'lgan kriptovalyutani tanlang!",
+    "accept_interval_candle":"Qabul qilindi\n\n{coin}\nInterval: {interval}\nDays: {days}",
+    "coin_time_choose_message":"Vaqt oraliq diapazonni tanlang!",
+    
+    "none_premium_message":"⚠️Bu kriptovalyutani analiz qilish uchun premium obuna bo'lishi kerak",
+    "premium_info":"🌟Premium uchun adminga murojat qiling: @aSarvarbek",
+    "premium_user_info":"Siz premiumga egasiz🤩",
+    "notification_message":"Bildirishnoma 💬\n\nAdminlarga xabar jo'natishingiz mumkin: ",
+    "process_canceled_message":"Jarayon berkor qilindi🛑"
+}
